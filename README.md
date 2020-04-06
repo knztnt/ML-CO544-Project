@@ -21,4 +21,5 @@ Following are the dependencies used. If there is an error, most probably one of 
  - scipy
  - scikit-learn
  - imblearn
+ - openpyxl
 
